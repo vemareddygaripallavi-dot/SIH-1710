@@ -149,3 +149,8 @@ npm run build
 The prototype currently uses illustrative station data. Actual indoor navigation, real-time updates, and verified accessibility routing require additional backend services and station-specific data.
 
 ```
+```
+## Result
+RailwayNav is a smart railway station navigation system.
+It helps passengers find platforms, ticket counters, restrooms, and other facilities.
+It provides interactive maps, route instructions, accessibility support, and voice guidance.
